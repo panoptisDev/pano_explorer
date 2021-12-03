@@ -1,4 +1,4 @@
-# pano_explorer
+# Pano Explorer
 Blockexplorer
 BlockScout
 Blockchain Explorer for inspecting and analyzing EVM Chains.
